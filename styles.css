@@ -1,0 +1,150 @@
+.intro1{
+  background-color: #ffffff;
+  position: absolute;
+  width: 558px;
+  height: 220px;
+  left: 350px;
+  top: 112px;
+}
+
+.intro2{
+  background-color: #29ADB2;
+  width: 280px;
+  height: 220px;
+  position: relative;
+  top: 76px;
+}
+
+
+.intro3{
+  background-color: #64CCC5;
+  position: relative;
+  left: 279px;
+  bottom: 144px;
+  width: 279px;
+  height: 219px;
+}
+
+a1{
+  color: #29ADB2;
+  font-size: 22px;
+  font-weight: bold;
+  position: relative;
+  top: 36px;
+  left: 40px;
+  font-family: 'Noto Sans JP',sans-serif;
+}
+
+a2{
+  color: #F5F5F5;
+  font-family: 'Noto Sans JP',sans-serif;
+  font-size: 15px;
+  position: relative;
+  top:28px;
+  left: 30px;
+  font-weight: bold;
+}
+
+#time{  
+  color:#9DB2BF;
+  position: relative;
+  top: 23px;
+  left:96px;
+}
+
+.func{
+  position: relative;
+  top: 42px;
+  left: 30px;
+  width:240px;
+  color: #D6E5FA;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    background: #D2DE32;
+    background-image: -webkit-linear-gradient(top, #D2DE32, #D2DE32);
+    background-image: -moz-linear-gradient(top, #D2DE32, #D2DE32);
+    background-image: -ms-linear-gradient(top, #D2DE32, #D2DE32);
+    background-image: -o-linear-gradient(top, #D2DE32, #D2DE32);
+    background-image: linear-gradient(to bottom, #D2DE32, #D2DE32);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 50px 12px 70px;
+    text-decoration: none;
+    position: relative;
+    top: 60px;
+    width:80px;
+    left: 30px;
+    font-size: medium;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+.btn:hover {
+    background: #D2DE32;
+    background-image: -webkit-linear-gradient(top, #FFE618, #FFE61B);
+    background-image: -moz-linear-gradient(top, #FFE618, #FFE61B);
+    background-image: -ms-linear-gradient(top, #FFE618, #FFE61B);
+    background-image: -o-linear-gradient(top, #FFE618, #FFE61B);
+    background-image: linear-gradient(to bottom, #FFE618, #FFE61B);
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: #FFE69A;
+  }
+
+
+.cst{
+  color: #F5F5F5;
+  position: relative;
+  top: 50px;
+  left: 30px;
+  font-size: 28px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+body{
+  background-color: #D8D9DA;
+  position: relative;
+}
+
+p1{
+  color:#D2DE32;
+  font-weight: bold;
+  position: relative;
+  top: 46px;
+  left: 40px;
+  font-family: 'Noto Sans JP',sans-serif;;
+}
+
+.p2{
+  color: #61677A;
+  position: relative;
+  top: 40px;
+  line-height: 1.65;
+  left: 40px;
+}
+
+.p3{
+  font-size: 12px;
+  position: relative;
+  line-height: 1.58;
+  left: 43px;
+  top: 45px;
+  color: #E4F1FF;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.wu{
+  position: relative;
+  left: 40px;
+  top: 28px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Noto Sans JP',sans-serif;
+  color: #FFFBF5;
+}
